@@ -1,0 +1,14 @@
+/* Tip, copy paste from 13c.01.01 & 13c.01.02 to get fonts and colors up and running ... */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#main-header {
+  background-image: url(https://picsum.photos/1600/600?grayscale&blur=10);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
